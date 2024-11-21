@@ -231,6 +231,7 @@ This performs real-time face recognition to identify whether the person in live 
 
 
 - **Output:**
+![Screenshot 2024-11-10 144914](https://github.com/user-attachments/assets/24770ef0-4c73-43f5-965e-d585e703766b)
 
 
 
@@ -238,10 +239,11 @@ This performs real-time face recognition to identify whether the person in live 
 Using a live video stream, this performs real-time face recognition to identify He/She. When He/She's face is recognized, his/her name is displayed on the video feed, and the recognition event is logged with the date and time in an Excel file. After every 5 recognitions, the current log is saved to an Excel file, and the recognition counter and DataFrame are reset.
 
 - **Input:**
-
+![AFFAN PHOTO](https://github.com/user-attachments/assets/d08e93cb-80e1-4ccc-a8d4-2154c0243ceb)
 
 
 - **Output:**
+![Screenshot 2024-11-10 161459](https://github.com/user-attachments/assets/e16d4c67-8b66-451a-b044-a8fd3713f72f)
 
 
 
@@ -249,10 +251,11 @@ Using a live video stream, this performs real-time face recognition to identify 
 This performs real-time face recognition to identify He/She in a live video feed, logging each recognition event with the date and time into an Excel file every 30 seconds. It tracks recognition intervals to avoid duplicate entries and displays He/She or "Not He/She" based on identification.
 
 - **Input:**
-
+![AFFAN PHOTO](https://github.com/user-attachments/assets/d08e93cb-80e1-4ccc-a8d4-2154c0243ceb)
 
 
 - **Output:**
+![Screenshot 2024-11-10 161459](https://github.com/user-attachments/assets/3b1bc79a-2649-4975-844b-59aff260c55c)
 
 
 
@@ -260,10 +263,11 @@ This performs real-time face recognition to identify He/She in a live video feed
 This performs real-time face recognition using the live camera feed to identify He/She. Each time a face is recognized, it records the name, date, and time in a data frame. Once a recognition count of 5 is reached, it saves the records to an Excel file, then resets the counter and DataFrame. It displays "He/She's name" or "Not He/She's name" over the video feed, and pressing 'q' exits the program with a final save of any remaining records.
 
 - **Input:**
-
+![AFFAN PHOTO](https://github.com/user-attachments/assets/d08e93cb-80e1-4ccc-a8d4-2154c0243ceb)
 
 
 - **Output:**
+![Screenshot 2024-11-10 164351](https://github.com/user-attachments/assets/afcf3142-4a19-48b9-a4af-404849101053)
 
 
 
@@ -278,10 +282,11 @@ This is for face recognition with time-based logging looks well-structured and i
 5. **Termination**: Exits when the 'q' key is pressed.
 
 - **Input:**
-
+![AFFAN PHOTO](https://github.com/user-attachments/assets/d08e93cb-80e1-4ccc-a8d4-2154c0243ceb)
 
 
 - **Output:**
+![SYED_AFFAN_2024-11-10_14-39-16](https://github.com/user-attachments/assets/e7b67018-c6da-4d0a-aeaa-9367533e7e46)
 
 
 
@@ -295,10 +300,11 @@ Key Features:
 - Avoids multiple logs within a 5-minute interval for the same person
 
 - **Input:**
-
+![AFFAN PHOTO](https://github.com/user-attachments/assets/d08e93cb-80e1-4ccc-a8d4-2154c0243ceb)
 
 
 - **Output:**
+![SYED_AFFAN_2024-11-10_12-57-34](https://github.com/user-attachments/assets/158e5382-182e-416f-bde4-852303cbcd67)
 
 
 
@@ -313,10 +319,11 @@ This code is a face recognition and attentiveness tracking system that operates 
 The system continues until you press 'q' to exit.
 
 - **Input:**
-
+![AFFAN PHOTO](https://github.com/user-attachments/assets/d08e93cb-80e1-4ccc-a8d4-2154c0243ceb)
 
 
 - **Output:**
+![SYED AFFAN_2024-11-10_15-03-09](https://github.com/user-attachments/assets/297f4e56-afb6-423f-a041-c926810717be)
 
 
 
@@ -332,9 +339,10 @@ This script captures real-time webcam video to recognize "His/Her's face" and as
 Exits on 'q' press, ensuring the final save to Excel.
 
 - **Input:**
-
+![AFFAN PHOTO](https://github.com/user-attachments/assets/d08e93cb-80e1-4ccc-a8d4-2154c0243ceb)
 
 - **Output:**
+![SYED AFFAN_2024-11-10_12-11-59](https://github.com/user-attachments/assets/ff7fedea-9966-47f8-9103-4449a4765104)
 
 
 
@@ -350,9 +358,10 @@ This captures webcam video, performs face recognition for "His/Her's face," calc
 The final output includes an Excel file with logged details and an average attentiveness score at the end of the session. The user can stop the video stream by pressing 'q'.
 
 - **Input:**
-
+![AFFAN PHOTO](https://github.com/user-attachments/assets/d08e93cb-80e1-4ccc-a8d4-2154c0243ceb)
 
 
 - **Output:**
+![SYED AFFAN_2024-11-10_12-35-55](https://github.com/user-attachments/assets/cef55519-74d9-484d-8d36-cc3686218cbb)
 
 
