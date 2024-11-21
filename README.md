@@ -245,6 +245,7 @@ Using a live video stream, this performs real-time face recognition to identify 
 - **Output:**
 ![Screenshot 2024-11-10 161459](https://github.com/user-attachments/assets/e16d4c67-8b66-451a-b044-a8fd3713f72f)
 
+![test](https://github.com/user-attachments/assets/501dfb03-6960-46f7-a44a-4e54bed6f488)
 
 
 #### C) `test`
@@ -257,6 +258,7 @@ This performs real-time face recognition to identify He/She in a live video feed
 - **Output:**
 ![Screenshot 2024-11-10 161459](https://github.com/user-attachments/assets/3b1bc79a-2649-4975-844b-59aff260c55c)
 
+![test](https://github.com/user-attachments/assets/493c435f-26cb-409f-9cdc-fc9c7e7260c8)
 
 
 #### D) `tools`
@@ -269,6 +271,7 @@ This performs real-time face recognition using the live camera feed to identify 
 - **Output:**
 ![Screenshot 2024-11-10 164351](https://github.com/user-attachments/assets/afcf3142-4a19-48b9-a4af-404849101053)
 
+![tool](https://github.com/user-attachments/assets/24cd5ba0-296e-4621-aa10-c9743f7d9adb)
 
 
 
@@ -288,6 +291,7 @@ This is for face recognition with time-based logging looks well-structured and i
 - **Output:**
 ![SYED_AFFAN_2024-11-10_14-39-16](https://github.com/user-attachments/assets/e7b67018-c6da-4d0a-aeaa-9367533e7e46)
 
+![excel sc](https://github.com/user-attachments/assets/7a19ff03-21c0-4d62-8ecb-3e3904399ac0)
 
 
 #### F) `excel_sc_dt`
@@ -306,6 +310,7 @@ Key Features:
 - **Output:**
 ![SYED_AFFAN_2024-11-10_12-57-34](https://github.com/user-attachments/assets/158e5382-182e-416f-bde4-852303cbcd67)
 
+![excel sc dt](https://github.com/user-attachments/assets/508a6ddc-c039-4f6c-a7e8-e6403475fa0e)
 
 
 #### G) `landmark`
@@ -325,6 +330,7 @@ The system continues until you press 'q' to exit.
 - **Output:**
 ![SYED AFFAN_2024-11-10_15-03-09](https://github.com/user-attachments/assets/297f4e56-afb6-423f-a041-c926810717be)
 
+![land mark](https://github.com/user-attachments/assets/91910f28-a24f-41e3-8053-c3e0b4acd3bc)
 
 
 #### H) `atten_score`
@@ -344,6 +350,7 @@ Exits on 'q' press, ensuring the final save to Excel.
 - **Output:**
 ![SYED AFFAN_2024-11-10_12-11-59](https://github.com/user-attachments/assets/ff7fedea-9966-47f8-9103-4449a4765104)
 
+![avg score](https://github.com/user-attachments/assets/42aa0e16-b724-4327-b120-ceecd48e906c)
 
 
 #### I) `avg_atten_score`
@@ -364,4 +371,5 @@ The final output includes an Excel file with logged details and an average atten
 - **Output:**
 ![SYED AFFAN_2024-11-10_12-35-55](https://github.com/user-attachments/assets/cef55519-74d9-484d-8d36-cc3686218cbb)
 
+![att score](https://github.com/user-attachments/assets/3111b379-ba4d-42be-b277-76fb1ad19f29)
 
