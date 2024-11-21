@@ -226,6 +226,7 @@ This function updates class numbers in label files for object detection tasks.
 This performs real-time face recognition to identify whether the person in live video frames a known image by comparing. His name is displayed if He/She is recognized; otherwise, "Not He/She" appears.
 
 - **Input:**
+![AFFAN PHOTO](https://github.com/user-attachments/assets/d08e93cb-80e1-4ccc-a8d4-2154c0243ceb)
 
 
 
